@@ -1,9 +1,5 @@
-# Hackintosh-Ryzen4600G-RX6600
-EFI configurada para macOS Sequoia 15.4 em Ryzen 5 4600G + RX 6600 + Aorus Elite V2
-
-#############################################
-
 # Hackintosh EFI - Ryzen 4600G + RX 6600
+EFI configurada para macOS Sequoia 15.4 em Ryzen 5 4600G + RX 6600 + Aorus Elite V2
 
 EFI funcional para macOS Sequoia 15.4 com:
 - CPU: AMD Ryzen 5 4600G (iGPU desativada)
