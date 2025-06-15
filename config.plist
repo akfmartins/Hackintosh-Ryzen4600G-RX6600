@@ -1723,7 +1723,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02221270QXPHC1JC</string>
+			<string>xxxxxxxx</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1737,9 +1737,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02HRNYUPN5T</string>
+			<string>xxxxxxxxxxxxx</string>
 			<key>SystemUUID</key>
-			<string>51BE623A-4DF0-4571-995E-FFEC778358E0</string>
+			<string>xxxxxxxxxxxxxxx</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
